@@ -85,6 +85,7 @@
   background-color: white;
   border: none;
   color: ${y[70]};
+  cursor: pointer;
 `,P=l.default.div.withConfig({displayName:"Left__TableWrapper",componentId:"sc-f8a17c35-5"})`
   flex: 1;
   padding: ${p.MEDIUM}px;
